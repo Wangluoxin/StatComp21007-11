@@ -1,0 +1,17 @@
+Package: StatComp21007
+Type: Package
+Title: Final homework of statistical computations
+Version: 1.0
+Date: 2021-12-09
+Author: StatComp21007
+Maintainer: StatComp21007 <WWWang0903@126.com>
+Description: It includes the homework of the whole semester and two functions of my research field.
+License: GPL (>= 2)
+Imports: Rcpp , microbenchmark, knitr, rmarkdown, ncvreg, MASS, boot, bootstrap, RANN, Ball, energy, stats
+LinkingTo: Rcpp
+RoxygenNote: 7.1.2
+Encoding: UTF-8
+Suggests: knitr, rmarkdown
+VignetteBuilder: knitr
+URL: http://github.com/Wangluoxin/StatComp21007
+BugReports: http://github.com/Wangluoxin/StatComp21007/issues
